@@ -1,0 +1,17 @@
+@media screen and (min-width: 200px) and (max-width: 640px) {
+  body{
+    background-color: black;
+    font-family: 'Pattaya', sans-serif;
+    color: white
+  }
+
+  /* faire disparaitre les autres infos du pokemon */
+  .disparaitre{
+    display: none;
+  }
+  
+  .block{
+    width: 100%;
+  }
+
+}
